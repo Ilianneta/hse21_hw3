@@ -1,7 +1,7 @@
 # hse21_hw3
 Ссылка на колаб: https://colab.research.google.com/drive/1E4lN3yL7ta9s4c8QAm8Tn5RsIdEuSdSs?usp=sharing
 
-Скриншоты из multiQC:
+#Скриншоты из multiQC:
 
  ![image](https://user-images.githubusercontent.com/56909634/144647464-7786d213-708d-43d0-bf07-10a82a6a0b7d.png)
  ![fastqc_sequence_counts_plot](https://user-images.githubusercontent.com/56909634/144648174-f6897968-3f9a-4099-abcf-0bc9669c967e.png)
@@ -13,13 +13,13 @@
 ![fastqc-status-check-heatmap](https://user-images.githubusercontent.com/56909634/144648428-5b1258c6-6cda-4116-af59-03b0cf7575bb.png)
 
 
-Тепловая карта:
+#Тепловая карта:
 ![Тепловая карта](https://user-images.githubusercontent.com/56909634/144648990-ed288f97-29d6-4a11-b6cf-d9f58ad69ab2.png)
 
-MA-plot:
+#MA-plot:
 ![MA-plot](https://user-images.githubusercontent.com/56909634/144649041-21d1a259-953f-41e9-8d27-c1ba2032c15b.png)
 
-Графики со значениями "Normalized counts" в контрольных и перепрограммированных образцах:
+#Графики со значениями "Normalized counts" в контрольных и перепрограммированных образцах:
 ![11796](https://user-images.githubusercontent.com/56909634/144649128-4211be61-1f69-4562-ba1f-cc5aa09a82fb.png)
 ![10828](https://user-images.githubusercontent.com/56909634/144649149-68be1670-27f6-4d30-a9a6-d01c599403f9.png)
 ![5409](https://user-images.githubusercontent.com/56909634/144649166-0cc3bf50-4d09-4519-aa9b-fb27881922e8.png)
