@@ -1,5 +1,6 @@
-# hse21_hw3
-Ссылка на колаб: https://colab.research.google.com/drive/1E4lN3yL7ta9s4c8QAm8Tn5RsIdEuSdSs?usp=sharing
+# hse21_hw3: 
+
+Колаб с первым заданием: https://colab.research.google.com/drive/1E4lN3yL7ta9s4c8QAm8Tn5RsIdEuSdSs?usp=sharing
 
 # Cкриншоты из multiQC:
 
@@ -12,7 +13,7 @@
 ![fastqc_sequence_duplication_levels_plot](https://user-images.githubusercontent.com/56909634/144648319-a19d5e76-7b27-479f-904c-22a392c3b3e4.png)
 ![fastqc-status-check-heatmap](https://user-images.githubusercontent.com/56909634/144648428-5b1258c6-6cda-4116-af59-03b0cf7575bb.png)
 
-
+Коллаб на R со вторым заданием: https://colab.research.google.com/drive/15UTr5mJB8NNEBOyo0KOljcwd_lETojhO?usp=sharing
 # Тепловая карта:
 ![Тепловая карта](https://user-images.githubusercontent.com/56909634/144648990-ed288f97-29d6-4a11-b6cf-d9f58ad69ab2.png)
 
