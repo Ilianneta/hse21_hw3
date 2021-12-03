@@ -13,6 +13,16 @@
 ![fastqc_sequence_duplication_levels_plot](https://user-images.githubusercontent.com/56909634/144648319-a19d5e76-7b27-479f-904c-22a392c3b3e4.png)
 ![fastqc-status-check-heatmap](https://user-images.githubusercontent.com/56909634/144648428-5b1258c6-6cda-4116-af59-03b0cf7575bb.png)
 
+# Число чтений:
+![дэкрана (76)](https://user-images.githubusercontent.com/56909634/144666366-7e45b3c6-1191-4eb3-8a19-d8aba095d102.png)
+
+# Rол-во уникально-картированных чтений:
+![Снимок экрана (76)](https://user-images.githubusercontent.com/56909634/144666436-b3e8f906-817a-467e-a3d6-5dec562ed614.png)
+![Снимок экрана (77)](https://user-images.githubusercontent.com/56909634/144666455-11195915-9f3e-4a8f-af39-2559ba0a823d.png)
+
+# Смотрим сколько чтений не удалось приписать ни одному гену:
+![Снимок экрана (78)](https://user-images.githubusercontent.com/56909634/144666484-4e2ca9d6-1258-4f36-9cfa-9956af7577e2.png)
+
 Коллаб на R со вторым заданием: https://colab.research.google.com/drive/15UTr5mJB8NNEBOyo0KOljcwd_lETojhO?usp=sharing
 # Тепловая карта:
 ![Тепловая карта](https://user-images.githubusercontent.com/56909634/144648990-ed288f97-29d6-4a11-b6cf-d9f58ad69ab2.png)
